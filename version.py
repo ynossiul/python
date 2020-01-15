@@ -5,3 +5,4 @@ print("Detalles Python: ")
 print(sys.version)
 print("/n")
 print(str("La version actual de Python es: ") + str(plataform.python_version())
+#verificamos l version de IPhithon que tenemos instalado 
